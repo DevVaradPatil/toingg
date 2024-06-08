@@ -1,0 +1,33 @@
+
+
+  
+  .animate-scroll {
+    animation: scroll 3s ease-in infinite;
+  }
+
+  @keyframes scroll {
+    0% { transform: translateY(100%); }
+    10% { transform: translateY(0); }
+    90% { transform: translateY(0); }
+    100% { transform: translateY(-100%); }
+  }
+  
+  .gradient-background {
+    background: radial-gradient(circle, #FFB47E, white);
+}
+
+.input1{
+  background: rgba(0, 0, 0, 0) !important;
+}
+.input2{
+  border-radius: 10px !important;
+
+
+}
+.inpu3{
+  border: 0px transparent !important;
+}
+
+.input4{
+  border:1px solid #555 !important;
+}
