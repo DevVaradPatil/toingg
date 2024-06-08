@@ -8,7 +8,7 @@ const Saftey = () => {
 
             <div className='flex flex-col items-center justify-center'>
                 <p className='text-4xl font-bold xs:text-3xl'>Unwavering Safety & Security</p>
-                <p className='text-[12px] mt-2'>With robust internal audits and stringent data governance, we champion the ethical use of AI, ensuring technology serves humanity's best interests. Our commitment sets the foundation for Advanced General Intelligence (AGI) with integrity.</p>
+                <p className='text-[12px] mt-2'>With robust internal audits and stringent data governance, we champion the ethical use of AI, ensuring technology serves humanitys best interests. Our commitment sets the foundation for Advanced General Intelligence (AGI) with integrity.</p>
             </div>
         </div>
         <div className='flex flex-col xs:flex-row xs:justify-center xs:items-center gap-10 xs:mt-5 xs:flex-wrap '>

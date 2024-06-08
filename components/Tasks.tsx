@@ -32,7 +32,7 @@ const Tasks = () => {
         <Card
           imgUrl="https://call.toingg.com/images/conversational.svg"
           title="Dynamic Conversational Flows"
-          description="Navigate through complex conversations with ease, thanks to our AI's ability to understand and adapt to various conversational pathways."
+          description="Navigate through complex conversations with ease, thanks to our AIs ability to understand and adapt to various conversational pathways."
         />
         <div className="w-px h-[300px] bg-[#F49C5D]" />
         <Card

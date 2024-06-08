@@ -47,7 +47,7 @@ const Hero = () => {
         <div className="flex items-center gap-6 mt-5 xs:flex-col xs:justify-center xs:w-full xs:mt-10">
           <button className="bg-gradient-to-r opacity-90 hover:opacity-100 from-[#FFA96B] to-[#D98C54] text-white font-semibold px-10 py-5 shadow-30 my-3 rounded-[10px]">
             Build your own voice agent{" "}
-            <span className="pl-2 text-black text-sm">'Coming soon'</span>
+            <span className="pl-2 text-black text-sm">&apos;Coming soon&apos;</span>
           </button>
           <button className="font-semibold py-5 px-5 hover:bg-gray-100 rounded-[10px] border text-sm">
             Hear it in Action
