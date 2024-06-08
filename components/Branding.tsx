@@ -16,7 +16,7 @@ const Branding = () => {
 
         <div className='flex py-10 items-center justify-center gap-10 xs:gap-3'>
             {images.map((image, index) => (
-                <div className='w-16 h-16 xs:w-10 xs:h-10'>
+                <div key={index} className='w-16 h-16 xs:w-10 xs:h-10'>
                     <img key={index} src={image} alt="logo" className='w-full h-full object-contain'/>
                 </div>
             ))}
