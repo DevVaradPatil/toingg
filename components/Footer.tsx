@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className="flex flex-col justify-center items-center px-[15vw] py-10 bg-[#FFFAF7] gap-2">
       <p className="text-[42px] font-bold">TOINGG</p>
-      <p className="text-lg text-gray-500 font-medium mt-3">
+      <p className="text-lg text-gray-500 font-medium mt-3 xs:text-center">
         We are here to grow your business{" "}
         <span className="text-red-500">❤</span>{" "}
       </p>
